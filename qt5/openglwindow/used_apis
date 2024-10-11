@@ -1,0 +1,5 @@
+cproc/api/libc
+cproc/api/mesa
+cproc/api/stdcxx
+cproc/api/qt5_base
+cproc/api/qt5_component

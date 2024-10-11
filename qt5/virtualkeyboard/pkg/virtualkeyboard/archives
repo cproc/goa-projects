@@ -1,0 +1,16 @@
+cproc/raw/qt5_dejavusans
+cproc/src/libc
+cproc/src/stdcxx
+cproc/src/vfs
+cproc/src/vfs_pipe
+cproc/src/zlib
+cproc/src/expat
+cproc/src/libdrm
+cproc/src/mesa
+cproc/src/qt5_base
+cproc/src/qt5_component
+cproc/src/qt5_declarative
+cproc/src/qt5_quickcontrols2
+cproc/src/qt5_svg
+cproc/src/qt5_virtualkeyboard
+cproc/src/vfs_gpu
