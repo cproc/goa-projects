@@ -1,0 +1,11 @@
+cproc/src/libc
+cproc/src/stdcxx
+cproc/src/vfs
+cproc/src/vfs_pipe
+cproc/src/zlib
+cproc/src/expat
+cproc/src/libdrm
+cproc/src/mesa
+cproc/src/qt6_base
+cproc/src/qt6_component
+cproc/src/vfs_gpu

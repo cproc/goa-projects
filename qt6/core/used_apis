@@ -1,0 +1,4 @@
+cproc/api/libc
+cproc/api/stdcxx
+cproc/api/qt6_base
+cproc/api/qt6_component

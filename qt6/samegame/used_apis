@@ -1,0 +1,6 @@
+cproc/api/libc
+cproc/api/mesa
+cproc/api/stdcxx
+cproc/api/qt6_base
+cproc/api/qt6_component
+cproc/api/qt6_declarative
