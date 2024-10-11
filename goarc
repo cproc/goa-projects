@@ -1,0 +1,5 @@
+set run_as                   cproc
+#set common_var_dir           var/projects
+set depot_dir                ../genode_goa.staging/depot
+set public_dir               ../genode_goa.staging/public
+set versions_from_genode_dir ../genode_goa.staging/
